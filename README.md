@@ -1,8 +1,5 @@
 # 🌌 Predicting Stars, Galaxies & Quasars with Machine Learning
 
-## 📌 Project ID
-PSGQ0922
-
 ## 📖 Overview
 This project uses Machine Learning techniques to classify celestial objects into:
 - ⭐ Stars
@@ -77,12 +74,3 @@ To build and evaluate machine learning models that can accurately classify astro
 - Matplotlib & Seaborn
 - Scikit-learn
 - TensorFlow (imported but not heavily used)
-
----
-
-## 🚀 Installation & Usage
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
